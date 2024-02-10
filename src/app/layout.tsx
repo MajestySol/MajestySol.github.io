@@ -70,13 +70,13 @@ export default function RootLayout({
                 // itemMarginBlock: 0,
                 // itemMarginInline: 10,
                 // iconMarginInlineEnd: 60,
-                itemHeight: 160,
+                itemHeight: 60,
               },
             },
           }}
         >
           <App>
-            <Layout style={{ minHeight: "100vh" }}>
+            <Layout style={{ minHeight: "130vh" }}>
               <Sider
                 collapsible
                 collapsed={collapsed}
