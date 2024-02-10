@@ -69,7 +69,7 @@ export default function RootLayout({
                 collapsedIconSize: 30,
                 // itemMarginBlock: 0,
                 // itemMarginInline: 10,
-                // iconMarginInlineEnd: 50,
+                // iconMarginInlineEnd: 90,
                 itemHeight: 60,
               },
             },
@@ -107,7 +107,7 @@ export default function RootLayout({
                     style={{
                       padding: 24,
                       margin: "16px 0 0 0",
-                      minHeight: 2600,
+                      minHeight: 260,
                       background: colorBgContainer,
                       borderRadius: borderRadiusLG,
                     }}
