@@ -107,7 +107,7 @@ export default function RootLayout({
                     style={{
                       padding: 24,
                       margin: "16px 0 0 0",
-                      minHeight: 260,
+                      minHeight: 2600,
                       background: colorBgContainer,
                       borderRadius: borderRadiusLG,
                     }}
