@@ -69,8 +69,8 @@ export default function RootLayout({
                 collapsedIconSize: 30,
                 // itemMarginBlock: 0,
                 // itemMarginInline: 10,
-                // iconMarginInlineEnd: 90,
-                itemHeight: 60,
+                // iconMarginInlineEnd: 60,
+                itemHeight: 160,
               },
             },
           }}
