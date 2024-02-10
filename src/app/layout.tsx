@@ -29,7 +29,7 @@ const logoStyle: CSSProperties = {
   display: "block",
   position: "relative",
   fontWeight: 700,
-  background: "-webkit-linear-gradient(135deg, #1cffff, #ff13e0)",
+  background: "-webkit-linear-gradient(135deg, #9945ed, #ff13e0)",
   WebkitBackgroundClip: "text",
   WebkitTextFillColor: "transparent",
   textAlign: "center",
@@ -83,7 +83,7 @@ export default function RootLayout({
                 onCollapse={(value) => setCollapsed(value)}
               >
                 <figure style={logoStyle}>
-                  {collapsed ? "Mu" : "Mukh.tar"}
+                  {collapsed ? "MS" : "MajestySol.com"}
                 </figure>
                 <Menu theme="dark" defaultSelectedKeys={[pathname]} mode="inline">
                   <Menu.Item key="/about" icon={<UserOutlined />}>
