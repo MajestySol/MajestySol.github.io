@@ -21,8 +21,8 @@ export default function Component() {
       </Text>
       <Divider />
       <Space direction="vertical">
-        <Link target="_blank" href={'https://solana.org/sfdp-validators/EbTx1su8tBFdt8fhYaKYEDyrU5iVQp3DQfPHpsaRv8qu'}>TDS22</Link>
-        <Link target="_blank" href={'https://metrics.stakeconomy.com/d/f2b2HcaGz/solana-community-validator-dashboard?orgId=1&refresh=1m&var-pubkey=G5Q3EBSkTg4xw72nJr5aoYP8zRdAFZaKGEozpFZtFRu7&var-server=Mukh.tar&var-inter=1m&var-netif=eth0&var-version=&from=now-7d&to=now'}>Grafana Dashboard</Link>
+        <Link target="_blank" href={'https://solana.org/sfdp-validators/AS4i8EXUZnPbmNT5ZXmoTEbrXQrbFoReiWwwFB43Ds5z'}>Check my validator status in delegation Program</Link>
+        <Link target="_blank" href={'https://metrics.stakeconomy.com/d/f2b2HcaGz/solana-community-validator-dashboard?orgId=1&refresh=1m&var-pubkey=8buHwxjeC8fnD5MZrTaR8iLsZYKaHJMXLzRD37HqYjLx&var-server=MajestySol-testnet&var-inter=1m&var-netif=eth0&var-version='}>Grafana Dashboard</Link>
       </Space>
     </main>
   );
