@@ -17,7 +17,7 @@ export default function Component() {
         <br />Location: London, England
         <br />Operating System: Ubuntu 20.x
         <br />Security - DDOS Protection
-        <br />Network - 1 Gbps pipe with 300 Mbps commit, burstable
+        <br />Network - 2 Gbps pipe with 300 Mbps commit, burstable
       </Text>
       <Divider />
       <Space direction="vertical">
